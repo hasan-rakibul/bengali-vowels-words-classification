@@ -1,2 +1,4 @@
 #ignore Jupyter Checkpoints
 .ipynb_checkpoints
+./Source_codes/
+./Result/
