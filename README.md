@@ -8,7 +8,7 @@ The following papers and dataset are linked with this repository:
 - [Outcomes of deep neural network hyperparameter tuning on Bengali speech token classification](https://doi.org/10.1109/ICISET54810.2022.9775837)
 - [Isolated Bengali vowel and word speech sounds](https://doi.org/10.17632/2h6975kdsx.1)
 
-If you use the dataset or any of the codes in this repository, please cite the following paper(s) as appropriate:
+If you use the dataset or any of the codes in this repository, please cite the following work(s) as appropriate:
 ```bibtex
 @article{hasan2021how,
     title={How Many {M}el-Frequency Cepstral Coefficients to Be Utilized in Speech Recognition? A Study with the {B}engali Language},
@@ -51,6 +51,14 @@ If you use the dataset or any of the codes in this repository, please cite the f
     note={V1},
     year={2021},
     doi={10.17632/2h6975kdsx.1}
+}
+
+@mastersthesis{hasan2021investigation,
+    title={Investigation into the Effect of Dynamic Acoustical Features in Deep Neural Network-based Speech Classification},
+    author={Hasan, Md Rakibul},
+    school={Khulna University of Engineering \& Technology},
+    year={2021},
+    doi={10.13140/RG.2.2.32371.91686}
 }
 ```
 
