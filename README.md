@@ -52,4 +52,4 @@ If you use the dataset or any of the codes in this repository, please cite the f
 }
 ```
 
-Aplogies for the disorganisations of this repository. It was not maintained during the development of the thesis (later, stuffs were dumped here). For any queries, please contact me; I will try to help as much as I can.
+Aplogies for the disorganisations of `Source_codes` directory. Proper version control as per git was not maintained during the development of the thesis. For any queries, please contact me; I will try to help as much as I can.
